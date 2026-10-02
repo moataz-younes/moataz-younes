@@ -23,6 +23,18 @@ Focused on cybercrime investigation, digital evidence analysis, and practical cy
 
 ---
 
+### Featured Projects
+
+| Project | Description |
+| --- | --- |
+| **[osint-footprint](https://github.com/moataz-younes/osint-footprint)** | Lightweight username footprint scanner across public platforms |
+| **[Leakguard_Analyst.](https://github.com/moataz-younes/Leakguard_Analyst.)** | OSINT tool for detecting and analyzing potential data leaks |
+| **[Stun-Analyzer0.1](https://github.com/moataz-younes/Stun-Analyzer0.1)** | STUN traffic analyzer for network forensics / VoIP investigations |
+| **[Cybersecurity-Mentor-Consultant](https://github.com/moataz-younes/Cybersecurity-Mentor-Consultant)** | Cybersecurity mentoring & awareness site |
+| **[privanta-site](https://github.com/moataz-younes/privanta-site)** | Privacy-focused product website |
+
+---
+
 ### Focus Areas
 
 | Area | What I work on |
