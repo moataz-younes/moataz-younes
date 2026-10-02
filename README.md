@@ -1,59 +1,71 @@
 ﻿<div align="center">
-  <h1>Hi 👋, I'm Moataz Younes</h1>
-  <h3>Cybercrime Investigator | OSINT Specialist | Cybersecurity Enthusiast</h3>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=moataz-younes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
+# Moataz Younes
 
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=moataz-younes" alt="Trophies" />
-    </a>
-  </p>
+**Cybercrime Investigator · OSINT Specialist · Cybersecurity**
+
+[![Profile views](https://komarev.com/ghpvc/?username=moataz-younes&label=Profile%20views&color=0582d0&style=flat)](https://github.com/moataz-younes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-younes-bb0a78180)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@moataz124ahmed)
+[![Email](https://img.shields.io/badge/Email-moataz.yones244%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:moataz.yones244@gmail.com)
+
+<br />
+
+<img src="https://github.com/user-attachments/assets/2f2b5984-3316-477c-8508-4b4fa1902c1b" alt="Moataz Younes" width="100%" />
+
 </div>
 
 ---
 
-### About Me
-I am passionate about combating cybercrime through digital evidence analysis and cybersecurity measures. With a strong foundation in Python development, I simplify complex technical information into actionable insights.
+### About
 
-- 🔭 Currently developing a **Cybercrime Case Management Tool**.
-- 📝 I regularly write articles on [Tech Law Future Escape](https://techlawfutureescape.wordpress.com/).
-- 📫 Reach me at **moataz.yones244@gmail.com**.
+Focused on cybercrime investigation, digital evidence analysis, and practical cybersecurity. I use Python to turn complex technical findings into clear, actionable insights for investigation and defense work.
 
 ---
 
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/@moataza04529138" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/moataz-younes-bb0a78180" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@moataz124ahmed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
+### Focus Areas
 
-![banner](https://github.com/user-attachments/assets/2f2b5984-3316-477c-8508-4b4fa1902c1b)
+| Area | What I work on |
+| --- | --- |
+| **Cybercrime Investigation** | Digital evidence, case workflows, investigative analysis |
+| **OSINT** | Open-source intelligence gathering and correlation |
+| **Cybersecurity** | Defensive practices, threat awareness, secure tooling |
+| **Automation** | Python scripting to speed analysis and reporting |
 
 ---
 
 ### Skills & Tools
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" /></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40" /></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,c,cpp,php,powershell,vscode" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/OSINT-0B1F3A?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="OSINT" />
 </p>
 
 ---
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moataz-younes&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moataz-younes&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moataz-younes&show_icons=true&theme=transparent&hide_border=true&title_color=0582d0&icon_color=0582d0&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataz-younes&layout=compact&theme=transparent&hide_border=true&title_color=0582d0&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moataz-younes&theme=transparent&hide_border=true&ring=0582d0&fire=0582d0&currStreakLabel=0582d0" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+**Let’s connect** — [LinkedIn](https://linkedin.com/in/moataz-younes-bb0a78180) · [Medium](https://medium.com/@moataz124ahmed) · [Email](mailto:moataz.yones244@gmail.com)
+
+</div>
