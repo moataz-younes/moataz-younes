@@ -29,6 +29,7 @@ Focused on cybercrime investigation, digital evidence analysis, and practical cy
 | --- | --- |
 | **[osint-footprint](https://github.com/moataz-younes/osint-footprint)** | Lightweight username footprint scanner across public platforms |
 | **[arabic-cipher-kit](https://github.com/moataz-younes/arabic-cipher-kit)** | Arabic cryptography toolkit — classical ciphers + password encryption |
+| **[osint-cloud-skills](https://github.com/moataz-younes/osint-cloud-skills)** | Searchable OSINT skills library for cloud investigations |
 | **[Leakguard_Analyst.](https://github.com/moataz-younes/Leakguard_Analyst.)** | OSINT tool for detecting and analyzing potential data leaks |
 | **[Stun-Analyzer0.1](https://github.com/moataz-younes/Stun-Analyzer0.1)** | STUN traffic analyzer for network forensics / VoIP investigations |
 | **[Cybersecurity-Mentor-Consultant](https://github.com/moataz-younes/Cybersecurity-Mentor-Consultant)** | Cybersecurity mentoring & awareness site |
